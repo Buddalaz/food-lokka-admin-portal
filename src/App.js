@@ -4,7 +4,7 @@ import DashBoard from './components/DashBoard';
 
 function App() {
   return (
-    <DashBoard />
+    <AdminLogin />
   );
 }
 
